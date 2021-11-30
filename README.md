@@ -23,6 +23,8 @@ Graphics Acceleration Works (UHD 620)
 
 Metal Works
 
+Sleep Works
+
 Camera Works
 
 Mic Works
