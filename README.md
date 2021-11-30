@@ -7,33 +7,35 @@ Intel Bual Band Wi-Fi
 
 Wi-Fi works
 
-Bluetooth works
+Bluetooth Works
 
-Touchpad mostly works (Trackpad settings in preferences doesnt work)
+Touchpad Mostly Works (Tap to Click Randomly Clicks)
 
-Bang & Olefsen speakers works
+Bang & Olefsen Speakers Works
 
-Battery mostly works (Battery manager not working)
+Battery Management Works
 
-macOS NVRAM works
+macOS NVRAM Works
 
-Touchscreen doesnt work (dont have a working touchscreen to try and get it working till I replace)
+Touchscreen Doesnt Work (Dont have a working touchscreen to try and get it working till I replace)
 
-Graphics acceleration works (UHD 620)
+Graphics Acceleration Works (UHD 620)
 
-Camera works
+Metal Works
 
-Mic works
+Camera Works
 
-iMessage & Facetime works
+Mic Works
 
-Apple services works
+iMessage & Facetime Works
+
+Apple services Works
 
 HP Function keys mostly work (Airplane key doesnt work)
 
-OpenCore graphical interface
+OpenCore Graphical Interface
 
-Boot Chime doesnt work (Easy fix just dont care for it)
+Boot Chime Doesnt Work (Easy fix just dont care for it)
 
 
 [DO NOT ATTEMPT TO USE ON ANY OTHER VERSION OF MACOS]
