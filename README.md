@@ -9,7 +9,7 @@ Wi-Fi works
 
 Bluetooth Works
 
-Touchpad Mostly Works (Tap to Click Randomly Clicks)
+Touchpad Works
 
 Bang & Olefsen Speakers Works
 
